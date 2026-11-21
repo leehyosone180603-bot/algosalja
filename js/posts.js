@@ -99,6 +99,146 @@ const POSTS = [
     url: "/posts/magnesium-rich-foods.html",
     image: "",
   },
+  {
+    id: "protein-rich-foods",
+    title: "단백질이 풍부한 음식과 단백질 부족 증상",
+    summary:
+      "탈모·손톱 약화·잦은 피로로 나타나는 단백질 부족 증상과, 끼니마다 챙기기 좋은 고단백 음식(닭가슴살·달걀·두부·그릭요거트)을 정리했습니다.",
+    category: "food",
+    date: "2026-11-20",
+    url: "/posts/protein-rich-foods.html",
+    image: "",
+  },
+  {
+    id: "blood-sugar-lowering-foods",
+    title: "혈당 낮추는 데 좋은 음식과 식사 습관 (당뇨 예방)",
+    summary:
+      "식후 쏟아지는 졸음, 혈당 스파이크 때문일 수 있어요. 혈당을 천천히 올리는 음식과 식사 순서·습관으로 당뇨를 예방하는 방법을 정리했습니다.",
+    category: "food",
+    date: "2026-11-20",
+    url: "/posts/blood-sugar-lowering-foods.html",
+    image: "",
+  },
+  {
+    id: "liver-health-foods",
+    title: "간에 좋은 음식과 간 건강 관리 (피로·지방간)",
+    summary:
+      "이유 없는 피로와 더딘 숙취 회복은 간이 지쳤다는 신호일 수 있어요. 간에 좋은 음식(브로콜리·마늘·커피·베리류)과 지방간을 줄이는 습관을 정리했습니다.",
+    category: "food",
+    date: "2026-11-19",
+    url: "/posts/liver-health-foods.html",
+    image: "",
+  },
+  {
+    id: "immunity-boosting-foods",
+    title: "면역력에 좋은 음식과 환절기 관리",
+    summary:
+      "환절기마다 감기를 달고 사는 분들을 위한 면역력에 좋은 음식(발효식품·마늘·버섯·제철 과채)과, 음식만큼 중요한 잠·체온 관리 습관을 정리했습니다.",
+    category: "food",
+    date: "2026-11-19",
+    url: "/posts/immunity-boosting-foods.html",
+    image: "",
+  },
+  {
+    id: "gastritis-good-foods",
+    title: "위염에 좋은 음식과 피해야 할 음식 (속쓰림·더부룩함)",
+    summary:
+      "속이 쓰리고 더부룩한 위염, 뭘 먹느냐가 회복을 좌우합니다. 위 점막을 달래는 음식(양배추·마·죽·바나나)과 피해야 할 음식을 정리했습니다.",
+    category: "food",
+    date: "2026-11-18",
+    url: "/posts/gastritis-good-foods.html",
+    image: "",
+  },
+  {
+    id: "calcium-rich-foods",
+    title: "칼슘이 풍부한 음식과 뼈 건강 (골다공증 예방)",
+    summary:
+      "우유 말고도 칼슘 보충 방법은 많아요. 칼슘이 풍부한 음식(멸치·두부·치즈·녹색채소)과 칼슘 흡수를 돕는 비타민D·생활습관을 정리했습니다.",
+    category: "food",
+    date: "2026-11-18",
+    url: "/posts/calcium-rich-foods.html",
+    image: "",
+  },
+  {
+    id: "anemia-iron-foods",
+    title: "빈혈에 좋은 음식과 철분 흡수 높이는 법",
+    summary:
+      "일어설 때 핑 도는 어지럼증은 철분 부족 때문일 수 있어요. 빈혈에 좋은 음식(소고기·굴·시금치·달걀)과 철분 흡수를 높이는 먹는 법을 정리했습니다.",
+    category: "food",
+    date: "2026-11-17",
+    url: "/posts/anemia-iron-foods.html",
+    image: "",
+  },
+  {
+    id: "turtle-neck-stretch",
+    title: "거북목·목 어깨 결림 원인과 스트레칭",
+    summary:
+      "모니터·스마트폰에 시달린 목과 어깨. 거북목·어깨 결림의 원인과 틈틈이 따라 하기 좋은 목 스트레칭·자세 교정법을 정리했습니다.",
+    category: "info",
+    date: "2026-11-17",
+    url: "/posts/turtle-neck-stretch.html",
+    image: "",
+  },
+  {
+    id: "plantar-fasciitis",
+    title: "족저근막염 증상과 관리 방법 (아침 발뒤꿈치 통증)",
+    summary:
+      "아침 첫발을 디딜 때 발뒤꿈치가 찌릿하다면 족저근막염일 수 있어요. 증상과 원인, 집에서 하는 스트레칭·관리법을 정리했습니다.",
+    category: "info",
+    date: "2026-11-16",
+    url: "/posts/plantar-fasciitis.html",
+    image: "",
+  },
+  {
+    id: "hypothyroidism-symptoms",
+    title: "갑상선 기능저하증 증상과 관리 (피로·체중 증가)",
+    summary:
+      "늘 춥고 피곤하고 살이 찐다면? 쉽게 지나치는 갑상선 기능저하증의 증상과 원인, 검사와 생활 관리 방법을 정리했습니다.",
+    category: "info",
+    date: "2026-11-16",
+    url: "/posts/hypothyroidism-symptoms.html",
+    image: "",
+  },
+  {
+    id: "dizziness-bppv",
+    title: "어지럼증 원인과 이석증 (빙글빙글 도는 어지러움)",
+    summary:
+      "자세를 바꿀 때 세상이 빙글빙글 돈다면 이석증일 수 있어요. 어지럼증의 다양한 원인과 이석증의 특징, 대처법을 정리했습니다.",
+    category: "info",
+    date: "2026-11-15",
+    url: "/posts/dizziness-bppv.html",
+    image: "",
+  },
+  {
+    id: "bad-breath-causes",
+    title: "입냄새(구취) 원인과 없애는 방법",
+    summary:
+      "양치를 해도 가시지 않는 입냄새, 원인이 입안에만 있는 게 아닐 수 있어요. 구취의 다양한 원인(설태·구강건조·비염 등)과 없애는 방법을 정리했습니다.",
+    category: "info",
+    date: "2026-11-15",
+    url: "/posts/bad-breath-causes.html",
+    image: "",
+  },
+  {
+    id: "stye-eye-causes",
+    title: "눈 다래끼 원인과 치료·예방 (눈꺼풀 붓고 아플 때)",
+    summary:
+      "눈꺼풀이 붓고 콕콕 아픈 다래끼, 짜도 될까요? 다래끼가 생기는 원인과 집에서 하는 온찜질 관리, 병원에 가야 할 때와 예방법을 정리했습니다.",
+    category: "info",
+    date: "2026-11-14",
+    url: "/posts/stye-eye-causes.html",
+    image: "",
+  },
+  {
+    id: "snoring-causes-improvement",
+    title: "코골이 원인과 개선 방법 (수면무호흡 주의)",
+    summary:
+      "단순 습관이 아닐 수 있는 코골이. 코골이의 원인과 집에서 할 수 있는 개선 방법, 수면무호흡을 의심해야 할 신호를 정리했습니다.",
+    category: "info",
+    date: "2026-11-14",
+    url: "/posts/snoring-causes-improvement.html",
+    image: "",
+  },
 ];
 
 /* 전역 노출 */
