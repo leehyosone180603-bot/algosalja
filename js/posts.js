@@ -47,7 +47,7 @@ const POSTS = [
     category: "info",
     date: "2026-11-21",
     url: "/posts/vitamin-d-deficiency.html",
-    image: "",
+    image: "/img/vitamin-d-deficiency-1.jpg",
   },
   {
     id: "insomnia-sleep-quality",
@@ -57,7 +57,7 @@ const POSTS = [
     category: "info",
     date: "2026-11-21",
     url: "/posts/insomnia-sleep-quality.html",
-    image: "",
+    image: "/img/insomnia-sleep-quality-1.jpg",
   },
   {
     id: "reflux-esophagitis-symptoms",
@@ -67,7 +67,7 @@ const POSTS = [
     category: "info",
     date: "2026-11-21",
     url: "/posts/reflux-esophagitis-symptoms.html",
-    image: "",
+    image: "/img/reflux-esophagitis-symptoms-1.jpg",
   },
   {
     id: "eye-health-foods-lutein",
@@ -187,7 +187,7 @@ const POSTS = [
     category: "info",
     date: "2026-11-16",
     url: "/posts/plantar-fasciitis.html",
-    image: "",
+    image: "/img/plantar-fasciitis-1.jpg",
   },
   {
     id: "hypothyroidism-symptoms",
