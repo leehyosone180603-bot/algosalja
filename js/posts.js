@@ -77,7 +77,7 @@ const POSTS = [
     category: "food",
     date: "2026-11-21",
     url: "/posts/eye-health-foods-lutein.html",
-    image: "",
+    image: "/img/eye-health-foods-lutein-1.jpg",
   },
   {
     id: "constipation-good-foods",
@@ -87,7 +87,7 @@ const POSTS = [
     category: "food",
     date: "2026-11-21",
     url: "/posts/constipation-good-foods.html",
-    image: "",
+    image: "/img/constipation-good-foods-1.jpg",
   },
   {
     id: "magnesium-rich-foods",
@@ -97,7 +97,7 @@ const POSTS = [
     category: "food",
     date: "2026-11-21",
     url: "/posts/magnesium-rich-foods.html",
-    image: "",
+    image: "/img/magnesium-rich-foods-1.jpg",
   },
   {
     id: "protein-rich-foods",
@@ -107,7 +107,7 @@ const POSTS = [
     category: "food",
     date: "2026-11-20",
     url: "/posts/protein-rich-foods.html",
-    image: "",
+    image: "/img/protein-rich-foods-1.jpg",
   },
   {
     id: "blood-sugar-lowering-foods",
@@ -117,7 +117,7 @@ const POSTS = [
     category: "food",
     date: "2026-11-20",
     url: "/posts/blood-sugar-lowering-foods.html",
-    image: "",
+    image: "/img/blood-sugar-lowering-foods-1.jpg",
   },
   {
     id: "liver-health-foods",
