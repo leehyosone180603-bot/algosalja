@@ -127,7 +127,7 @@ const POSTS = [
     category: "food",
     date: "2026-11-19",
     url: "/posts/liver-health-foods.html",
-    image: "",
+    image: "/img/liver-health-foods-1.jpg",
   },
   {
     id: "immunity-boosting-foods",
@@ -137,7 +137,7 @@ const POSTS = [
     category: "food",
     date: "2026-11-19",
     url: "/posts/immunity-boosting-foods.html",
-    image: "",
+    image: "/img/immunity-boosting-foods-1.jpg",
   },
   {
     id: "gastritis-good-foods",
@@ -147,7 +147,7 @@ const POSTS = [
     category: "food",
     date: "2026-11-18",
     url: "/posts/gastritis-good-foods.html",
-    image: "",
+    image: "/img/gastritis-good-foods-1.jpg",
   },
   {
     id: "calcium-rich-foods",
@@ -157,7 +157,7 @@ const POSTS = [
     category: "food",
     date: "2026-11-18",
     url: "/posts/calcium-rich-foods.html",
-    image: "",
+    image: "/img/calcium-rich-foods-1.jpg",
   },
   {
     id: "anemia-iron-foods",
@@ -167,7 +167,7 @@ const POSTS = [
     category: "food",
     date: "2026-11-17",
     url: "/posts/anemia-iron-foods.html",
-    image: "",
+    image: "/img/anemia-iron-foods-1.jpg",
   },
   {
     id: "turtle-neck-stretch",
