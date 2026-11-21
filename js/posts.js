@@ -177,7 +177,7 @@ const POSTS = [
     category: "info",
     date: "2026-11-17",
     url: "/posts/turtle-neck-stretch.html",
-    image: "",
+    image: "/img/turtle-neck-stretch-1.jpg",
   },
   {
     id: "plantar-fasciitis",
@@ -197,7 +197,7 @@ const POSTS = [
     category: "info",
     date: "2026-11-16",
     url: "/posts/hypothyroidism-symptoms.html",
-    image: "",
+    image: "/img/hypothyroidism-symptoms-1.jpg",
   },
   {
     id: "dizziness-bppv",
@@ -207,7 +207,7 @@ const POSTS = [
     category: "info",
     date: "2026-11-15",
     url: "/posts/dizziness-bppv.html",
-    image: "",
+    image: "/img/dizziness-bppv-1.jpg",
   },
   {
     id: "bad-breath-causes",
@@ -217,7 +217,7 @@ const POSTS = [
     category: "info",
     date: "2026-11-15",
     url: "/posts/bad-breath-causes.html",
-    image: "",
+    image: "/img/bad-breath-causes-1.jpg",
   },
   {
     id: "stye-eye-causes",
@@ -227,7 +227,7 @@ const POSTS = [
     category: "info",
     date: "2026-11-14",
     url: "/posts/stye-eye-causes.html",
-    image: "",
+    image: "/img/stye-eye-causes-1.jpg",
   },
   {
     id: "snoring-causes-improvement",
@@ -237,7 +237,7 @@ const POSTS = [
     category: "info",
     date: "2026-11-14",
     url: "/posts/snoring-causes-improvement.html",
-    image: "",
+    image: "/img/snoring-causes-improvement-1.jpg",
   },
 ];
 
