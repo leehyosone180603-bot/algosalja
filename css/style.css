@@ -285,3 +285,13 @@ img { max-width: 100%; display: block; }
   .listitem { grid-template-columns: 110px 1fr; gap: 12px; }
   .listitem__title { font-size: 16px; }
 }
+
+/* 쿠팡 파트너스 배너 (히어로 아래) */
+.coupang-ad { text-align: center; margin: 18px 0 6px; min-height: 90px; overflow: hidden; }
+.coupang-ad .cpq--mobile { display: none; }
+.coupang-ad iframe { max-width: 100%; }
+@media (max-width: 760px) {
+  .coupang-ad { min-height: 100px; }
+  .coupang-ad .cpq--desktop { display: none; }
+  .coupang-ad .cpq--mobile { display: block; }
+}
