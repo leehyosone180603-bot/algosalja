@@ -162,7 +162,6 @@ function renderHeader() {
         <div class="nav__links">${navLinks}</div>
         <div class="nav__meta">
           <span class="nav__date">발행일: ${dateStr}</span>
-          <span class="nav__auth"><a href="${SITE.adminUrl}">로그인</a> | <a href="${SITE.adminUrl}">회원가입</a></span>
         </div>
       </div>
     </nav>

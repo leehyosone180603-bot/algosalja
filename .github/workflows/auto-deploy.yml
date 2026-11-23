@@ -1,0 +1,33 @@
+name: Auto deploy to main
+
+# 자동 발행 세션은 작업 브랜치에만 push 합니다.
+# 이 워크플로가 작업 브랜치 push를 감지해 main(=GitHub Pages 라이브)으로 자동 반영합니다.
+
+on:
+  push:
+    branches:
+      - claude/algosalja-auto
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-deploy-main
+  cancel-in-progress: false
+
+jobs:
+  mirror-to-main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout work branch
+        uses: actions/checkout@v4
+        with:
+          ref: claude/algosalja-auto
+          fetch-depth: 0
+      - name: Fast-forward main to work branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          echo "work branch HEAD: $(git rev-parse HEAD)"
+          git push origin HEAD:main
+          echo "main 을 작업 브랜치로 반영 완료"
