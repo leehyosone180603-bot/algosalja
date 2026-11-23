@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "winter-vitamin-d-foods",
+    title: "겨울 비타민D 많은 음식 총정리 (연어·버섯·달걀)",
+    summary:
+      "햇빛이 부족한 겨울, 비타민D 많은 음식으로 채우는 법. 연어·고등어·달걀 노른자·버섯 등 공급원과 하루 권장 섭취량, 흡수 높이는 습관까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-23",
+    url: "/posts/winter-vitamin-d-foods.html",
+    image: "/img/winter-vitamin-d-foods-1.jpg",
+  },
+  {
     id: "vitamin-d-deficiency",
     title: "비타민D 결핍 증상과 보충 방법 (햇빛·음식)",
     summary:
