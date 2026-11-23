@@ -6,7 +6,7 @@
 (function () {
   "use strict";
   // ▼▼▼ 알고살자 전용 Apps Script 웹앱 /exec URL 을 여기에 붙여넣으세요 ▼▼▼
-  var ENDPOINT = "";
+  var ENDPOINT = "https://script.google.com/macros/s/AKfycbwvggjR1MFVgBJy4FsQRdIfuwT9DFiQs0_3JAcEHme5pBY_AH3T84_iSfOnUhmwXxgz/exec";
   // ▲▲▲ 예: https://script.google.com/macros/s/AKfyc.../exec ▲▲▲
   if (!ENDPOINT) return;
 
