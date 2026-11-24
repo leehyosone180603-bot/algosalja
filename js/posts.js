@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "magnesium-foods-guide",
+    title: "마그네슘 많은 음식 총정리 (호박씨·시금치·콩)",
+    summary:
+      "다리에 쥐가 자주 난다면? 마그네슘 많은 음식과 식품별 함량, 하루 권장 섭취량, 음식으로 챙기는 팁까지 정리했습니다. 호박씨·잎채소·콩·통곡물 중심으로.",
+    category: "food",
+    date: "2026-11-24",
+    url: "/posts/magnesium-foods-guide.html",
+    image: "/img/magnesium-foods-guide-1.jpg",
+  },
+  {
     id: "winter-joint-pain-care",
     title: "겨울철 관절 통증, 왜 심해질까? 원인과 집에서 하는 관리법",
     summary:
