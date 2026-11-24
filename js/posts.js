@@ -40,6 +40,36 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "winter-joint-pain-care",
+    title: "겨울철 관절 통증, 왜 심해질까? 원인과 집에서 하는 관리법",
+    summary:
+      "겨울에 무릎·손가락 관절 통증이 심해지는 이유와 집에서 하는 관리법을 정리했습니다. 보온·스트레칭·적정 활동·체중 관리, 병원에 가야 할 신호까지.",
+    category: "info",
+    date: "2026-11-24",
+    url: "/posts/winter-joint-pain-care.html",
+    image: "/img/winter-joint-pain-care-1.jpg",
+  },
+  {
+    id: "hypertension-foods-sodium",
+    title: "고혈압에 좋은 음식과 나트륨 줄이는 법",
+    summary:
+      "고혈압에 좋은 칼륨 풍부 음식과 DASH 식단, 나트륨 줄이는 실천법, 피해야 할 음식까지 혈압 관리 식단을 한눈에 정리했습니다.",
+    category: "food",
+    date: "2026-11-24",
+    url: "/posts/hypertension-foods-sodium.html",
+    image: "/img/hypertension-foods-sodium-1.jpg",
+  },
+  {
+    id: "omega3-foods-benefits",
+    title: "오메가3 많은 음식과 효능 (심혈관·염증·눈·뇌)",
+    summary:
+      "오메가3가 많은 음식(고등어·연어·정어리·들기름·견과류)과 EPA·DHA의 심혈관·염증·눈·뇌 효능, 섭취 요령과 주의점을 정리했습니다.",
+    category: "food",
+    date: "2026-11-24",
+    url: "/posts/omega3-foods-benefits.html",
+    image: "/img/omega3-foods-benefits-1.jpg",
+  },
+  {
     id: "winter-dry-eye-relief",
     title: "겨울 안구건조증 완화 방법 7가지 (집·사무실에서)",
     summary:
