@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "cholesterol-lowering-foods",
+    title: "콜레스테롤 낮추는 음식 총정리 (귀리·콩·견과)",
+    summary:
+      "LDL 콜레스테롤이 걱정된다면? 귀리·콩·등푸른생선·견과 등 콜레스테롤 낮추는 음식과 줄여야 할 음식(포화·트랜스지방), 생활습관까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-24",
+    url: "/posts/cholesterol-lowering-foods.html",
+    image: "/img/cholesterol-lowering-foods-1.jpg",
+  },
+  {
     id: "magnesium-foods-guide",
     title: "마그네슘 많은 음식 총정리 (호박씨·시금치·콩)",
     summary:
