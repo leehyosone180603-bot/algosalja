@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "cold-hands-feet-foods",
+    title: "수족냉증에 좋은 음식 7가지와 피해야 할 음식",
+    summary:
+      "겨울 손발이 차가운 수족냉증, 생강·마늘·등푸른생선 등 몸을 덥히는 음식과 피해야 할 음식, 생활습관, 병원 가야 할 신호까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-24",
+    url: "/posts/cold-hands-feet-foods.html",
+    image: "/img/cold-hands-feet-foods-1.jpg",
+  },
+  {
     id: "winter-vitamin-d-foods",
     title: "겨울 비타민D 많은 음식 총정리 (연어·버섯·달걀)",
     summary:
