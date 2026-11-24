@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "nasal-congestion-relief",
+    title: "코막힘 뚫는 법 7가지 (식염수·증기·자세)",
+    summary:
+      "밤에 코가 막혀 괴롭다면? 코막힘 원인과 집에서 할 수 있는 코막힘 뚫는 법(생리식염수 세척·증기·온찜질·자세·습도), 약 주의점과 병원 가야 할 신호까지 정리했습니다.",
+    category: "info",
+    date: "2026-11-25",
+    url: "/posts/nasal-congestion-relief.html",
+    image: "/img/nasal-congestion-relief-1.jpg",
+  },
+  {
     id: "hangover-relief-foods",
     title: "숙취 해소에 좋은 음식과 피해야 할 것 (북엇국·물)",
     summary:
