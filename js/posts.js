@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "winter-dry-eye-relief",
+    title: "겨울 안구건조증 완화 방법 7가지 (집·사무실에서)",
+    summary:
+      "난방으로 건조한 겨울, 안구건조증 완화 방법을 정리했습니다. 실내 습도·온도, 의식적 깜빡임, 눈 휴식, 온찜질과 인공눈물 올바른 사용법, 안과 가야 할 신호까지.",
+    category: "info",
+    date: "2026-11-24",
+    url: "/posts/winter-dry-eye-relief.html",
+    image: "/img/winter-dry-eye-relief-1.jpg",
+  },
+  {
     id: "cold-hands-feet-foods",
     title: "수족냉증에 좋은 음식 7가지와 피해야 할 음식",
     summary:
