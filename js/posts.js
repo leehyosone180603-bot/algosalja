@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "hangover-relief-foods",
+    title: "숙취 해소에 좋은 음식과 피해야 할 것 (북엇국·물)",
+    summary:
+      "연말 회식 다음 날, 숙취 해소에 좋은 음식을 근거 위주로 정리했습니다. 물·북엇국·콩나물·맑은 국물과 피해야 할 해장술·커피·찬 음식, 가장 확실한 방법까지.",
+    category: "food",
+    date: "2026-11-24",
+    url: "/posts/hangover-relief-foods.html",
+    image: "/img/hangover-relief-foods-1.jpg",
+  },
+  {
     id: "cholesterol-lowering-foods",
     title: "콜레스테롤 낮추는 음식 총정리 (귀리·콩·견과)",
     summary:
