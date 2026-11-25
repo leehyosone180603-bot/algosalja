@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "potassium-foods",
+    title: "칼륨 많은 음식 총정리 (감자·시금치·바나나)",
+    summary:
+      "짜게 먹고 붓거나 혈압이 걱정된다면? 칼륨 많은 음식(감자·시금치·바나나·콩)과 함량, 하루 섭취 기준, 신장질환 주의점과 조리법까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-25",
+    url: "/posts/potassium-foods.html",
+    image: "/img/potassium-foods-1.jpg",
+  },
+  {
     id: "tinnitus-causes",
     title: "이명 원인과 완화법 (소음·스트레스·돌발성 난청)",
     summary:
