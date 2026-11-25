@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "tinnitus-causes",
+    title: "이명 원인과 완화법 (소음·스트레스·돌발성 난청)",
+    summary:
+      "귀에서 삐 소리가 난다면? 이명 원인을 소음·노화, 스트레스, 질환, 박동성으로 나눠 정리했습니다. 돌발성 난청 신호, 집에서 하는 소리 관리와 병원 가야 할 경우까지.",
+    category: "info",
+    date: "2026-11-25",
+    url: "/posts/tinnitus-causes.html",
+    image: "/img/tinnitus-causes-1.jpg",
+  },
+  {
     id: "uric-acid-foods",
     title: "요산 낮추는 음식과 피해야 할 음식 (통풍 식단)",
     summary:
