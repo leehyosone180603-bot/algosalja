@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "winter-dry-skin-itch",
+    title: "겨울 피부 건조 가려움증 관리법 (보습·샤워·습도)",
+    summary:
+      "긁을수록 심해지는 겨울 피부 건조 가려움증, 원인과 관리법을 정리했습니다. 샤워 직후 3분 보습, 미지근한 물, 실내 습도 40~60%, 주의사항과 병원 가야 할 신호까지.",
+    category: "info",
+    date: "2026-11-25",
+    url: "/posts/winter-dry-skin-itch.html",
+    image: "/img/winter-dry-skin-itch-1.jpg",
+  },
+  {
     id: "nasal-congestion-relief",
     title: "코막힘 뚫는 법 7가지 (식염수·증기·자세)",
     summary:
