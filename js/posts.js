@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "leg-cramps-night",
+    title: "다리에 쥐 나는 이유와 예방법 (야간 종아리 경련)",
+    summary:
+      "자다가 종아리에 쥐가 난다면? 다리에 쥐 나는 이유(탈수·전해질·순환·피로)와 쥐 났을 때 푸는 법, 스트레칭·수분 예방법, 병원 가야 할 신호까지 정리했습니다.",
+    category: "info",
+    date: "2026-11-25",
+    url: "/posts/leg-cramps-night.html",
+    image: "/img/leg-cramps-night-1.jpg",
+  },
+  {
     id: "potassium-foods",
     title: "칼륨 많은 음식 총정리 (감자·시금치·바나나)",
     summary:
