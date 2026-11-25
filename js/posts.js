@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "migraine-relief",
+    title: "편두통 완화 방법 총정리 (휴식·냉찜질·생활습관)",
+    summary:
+      "한쪽 머리가 지끈거리는 편두통, 집에서 할 수 있는 완화 방법을 정리했습니다. 어둡고 조용한 휴식·냉찜질·수분·카페인 조절과 생활습관, 병원 가야 할 위험 신호까지.",
+    category: "info",
+    date: "2026-11-25",
+    url: "/posts/migraine-relief.html",
+    image: "/img/migraine-relief-1.jpg",
+  },
+  {
     id: "menopause-foods",
     title: "갱년기에 좋은 음식 총정리 (콩·두부·유제품)",
     summary:
