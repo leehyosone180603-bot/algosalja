@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "zinc-foods",
+    title: "아연 많은 음식 총정리 (굴·소고기·견과·콩)",
+    summary:
+      "면역·상처 회복에 필요한 아연, 어떤 음식에 많을까요? 굴·소고기·갑각류·씨앗·콩 등 아연 많은 음식과 함량, 하루 섭취 기준, 보충제 주의점(구리·철분)까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-25",
+    url: "/posts/zinc-foods.html",
+    image: "/img/zinc-foods-1.jpg",
+  },
+  {
     id: "leg-cramps-night",
     title: "다리에 쥐 나는 이유와 예방법 (야간 종아리 경련)",
     summary:
