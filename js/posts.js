@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "uric-acid-foods",
+    title: "요산 낮추는 음식과 피해야 할 음식 (통풍 식단)",
+    summary:
+      "통풍·고요산이 걱정된다면? 요산 낮추는 음식(물·저지방 유제품·콩·체리)과 피해야 할 음식(술·내장·과당), 커피 효과, 생활습관까지 근거 위주로 정리했습니다.",
+    category: "food",
+    date: "2026-11-25",
+    url: "/posts/uric-acid-foods.html",
+    image: "/img/uric-acid-foods-1.jpg",
+  },
+  {
     id: "hand-foot-numbness",
     title: "손발 저림 원인과 관리법 (손목터널·당뇨·디스크)",
     summary:
