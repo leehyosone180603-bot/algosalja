@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "hand-foot-numbness",
+    title: "손발 저림 원인과 관리법 (손목터널·당뇨·디스크)",
+    summary:
+      "손발 저림, 혈액순환 탓만은 아닙니다. 손목터널증후군·목디스크·당뇨병성 신경병증 등 원인과 저리는 위치로 구분하는 법, 집에서 하는 관리와 병원 가야 할 신호까지 정리했습니다.",
+    category: "info",
+    date: "2026-11-25",
+    url: "/posts/hand-foot-numbness.html",
+    image: "/img/hand-foot-numbness-1.jpg",
+  },
+  {
     id: "gut-health-foods",
     title: "장 건강에 좋은 음식 총정리 (발효식품·식이섬유)",
     summary:
