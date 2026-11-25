@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "gut-health-foods",
+    title: "장 건강에 좋은 음식 총정리 (발효식품·식이섬유)",
+    summary:
+      "속이 더부룩하다면? 장 건강에 좋은 음식을 정리했습니다. 김치·요구르트 등 발효식품, 마늘·양파 프리바이오틱스, 통곡물·콩 식이섬유와 피해야 할 음식, 생활습관까지.",
+    category: "food",
+    date: "2026-11-25",
+    url: "/posts/gut-health-foods.html",
+    image: "/img/gut-health-foods-1.jpg",
+  },
+  {
     id: "migraine-relief",
     title: "편두통 완화 방법 총정리 (휴식·냉찜질·생활습관)",
     summary:
