@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "menopause-foods",
+    title: "갱년기에 좋은 음식 총정리 (콩·두부·유제품)",
+    summary:
+      "얼굴 화끈거림·불면이 잦아지는 갱년기, 콩·두부·유제품·등푸른생선 등 갱년기에 좋은 음식과 줄여야 할 음식, 칼슘·비타민D 뼈 건강 팁까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-25",
+    url: "/posts/menopause-foods.html",
+    image: "/img/menopause-foods-1.jpg",
+  },
+  {
     id: "winter-dry-skin-itch",
     title: "겨울 피부 건조 가려움증 관리법 (보습·샤워·습도)",
     summary:
