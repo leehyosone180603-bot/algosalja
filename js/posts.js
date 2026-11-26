@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "dry-mouth-causes",
+    title: "입 마름 원인과 완화법 (구강건조증·약물·당뇨)",
+    summary:
+      "물을 마셔도 입이 마른다면? 입 마름(구강건조증) 원인을 약물·당뇨·생활습관·침샘 질환으로 나눠 정리했습니다. 침 분비 자극·수분 관리와 병원 가야 할 신호까지.",
+    category: "info",
+    date: "2026-11-26",
+    url: "/posts/dry-mouth-causes.html",
+    image: "/img/dry-mouth-causes-1.jpg",
+  },
+  {
     id: "zinc-foods",
     title: "아연 많은 음식 총정리 (굴·소고기·견과·콩)",
     summary:
