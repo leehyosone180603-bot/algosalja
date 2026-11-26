@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "vitamin-c-foods",
+    title: "비타민C 많은 음식 총정리 (파프리카·브로콜리·키위)",
+    summary:
+      "레몬보다 많은 비타민C 음식? 파프리카·브로콜리·딸기·키위 등 비타민C 많은 음식과 함량, 손실 줄이는 조리법, 하루 섭취 기준과 과다·보충제 주의점까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-26",
+    url: "/posts/vitamin-c-foods.html",
+    image: "/img/vitamin-c-foods-1.jpg",
+  },
+  {
     id: "dry-mouth-causes",
     title: "입 마름 원인과 완화법 (구강건조증·약물·당뇨)",
     summary:
