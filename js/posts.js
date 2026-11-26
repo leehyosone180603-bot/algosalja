@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "eyelid-twitch",
+    title: "눈 밑 떨림 원인과 완화법 (피로·카페인·마그네슘)",
+    summary:
+      "눈 밑이 파르르 떨린다면? 눈 밑 떨림 원인을 피로·스트레스·카페인·눈 피로로 나눠 정리했습니다. 마그네슘 부족 여부, 집에서 하는 관리와 병원 가야 할 신호까지.",
+    category: "info",
+    date: "2026-11-26",
+    url: "/posts/eyelid-twitch.html",
+    image: "/img/eyelid-twitch-1.jpg",
+  },
+  {
     id: "vitamin-c-foods",
     title: "비타민C 많은 음식 총정리 (파프리카·브로콜리·키위)",
     summary:
