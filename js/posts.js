@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "chapped-lips",
+    title: "입술 트는 이유와 관리법 (건조·습관·영양)",
+    summary:
+      "겨울마다 입술이 갈라진다면? 입술 트는 이유를 건조·자외선·핥는 습관·구강호흡·영양 부족으로 나눠 정리했습니다. 올바른 립밤 보습과 피할 습관, 병원 신호까지.",
+    category: "info",
+    date: "2026-11-26",
+    url: "/posts/chapped-lips.html",
+    image: "/img/chapped-lips-1.jpg",
+  },
+  {
     id: "fiber-foods",
     title: "식이섬유 많은 음식 총정리 (콩·통곡물·채소·과일)",
     summary:
