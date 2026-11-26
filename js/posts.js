@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "fiber-foods",
+    title: "식이섬유 많은 음식 총정리 (콩·통곡물·채소·과일)",
+    summary:
+      "변비·더부룩함이 걱정된다면? 식이섬유 많은 음식(콩·통곡물·채소·과일)을 수용성·불용성으로 나눠 정리했습니다. 하루 섭취 기준과 갑자기 늘릴 때 주의점까지.",
+    category: "food",
+    date: "2026-11-26",
+    url: "/posts/fiber-foods.html",
+    image: "/img/fiber-foods-1.jpg",
+  },
+  {
     id: "seongnam-property-tax-reduction-issue",
     title: "성남시 재산세 감면 논란 — 지자체 감면, 내 재산세도 줄까",
     summary:
