@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "calcium-foods",
+    title: "칼슘 많은 음식 총정리 (멸치·우유·두부)",
+    summary:
+      "뼈 건강이 걱정된다면? 칼슘 많은 음식(멸치·우유·두부·채소)과 함량, 비타민D로 흡수 높이는 법, 하루 섭취 기준과 보충제 주의점까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-26",
+    url: "/posts/calcium-foods.html",
+    image: "/img/calcium-foods-1.jpg",
+  },
+  {
     id: "iron-foods",
     title: "철분 많은 음식 총정리 (소고기·시금치·콩)",
     summary:
