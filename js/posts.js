@@ -40,6 +40,36 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "property-tax-assessment-date-june-1",
+    title: "재산세 과세 기준일 6월 1일이 중요한 이유, 매매 시 누가 낼까",
+    summary:
+      "재산세는 매년 6월 1일 현재 소유자가 1년치를 전부 냅니다. 집을 사고팔 때 잔금일·등기일에 따라 누가 재산세를 부담하는지, 하루 차이로 수십만 원이 갈리는 기준을 사례로 정리했습니다.",
+    category: "info",
+    date: "2026-11-26",
+    url: "/posts/property-tax-assessment-date-june-1.html",
+    image: "/img/property-tax-assessment-date-june-1-1.jpg",
+  },
+  {
+    id: "property-tax-assessment-criteria",
+    title: "재산세 책정 기준 완전정리 — 공시가격·공정시장가액비율·세율",
+    summary:
+      "재산세가 어떤 기준으로 책정되는지 공시가격, 공정시장가액비율(일반 60%·1주택 43~45%), 누진세율, 과세표준상한제까지 2026년 기준으로 한 번에 정리했습니다.",
+    category: "info",
+    date: "2026-11-26",
+    url: "/posts/property-tax-assessment-criteria.html",
+    image: "/img/property-tax-assessment-criteria-1.jpg",
+  },
+  {
+    id: "property-tax-basics-who-when-how-much",
+    title: "재산세란? 누가·언제·얼마 내는지 처음부터 쉽게",
+    summary:
+      "재산세가 무엇인지, 누가(6월 1일 소유자) 언제(7·9월) 얼마나 내는지 처음 보는 사람도 이해하도록 정리했습니다. 공시가격·공정시장가액비율·세율 구조와 바로 계산하는 법까지.",
+    category: "info",
+    date: "2026-11-26",
+    url: "/posts/property-tax-basics-who-when-how-much.html",
+    image: "/img/property-tax-basics-who-when-how-much-1.jpg",
+  },
+  {
     id: "folate-foods",
     title: "엽산 많은 음식 총정리 (콩·시금치·아스파라거스)",
     summary:
