@@ -40,34 +40,184 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
-    id: "property-tax-assessment-date-june-1",
-    title: "재산세 과세 기준일 6월 1일이 중요한 이유, 매매 시 누가 낼까",
+    id: "folate-foods",
+    title: "엽산 많은 음식 총정리 (콩·시금치·아스파라거스)",
     summary:
-      "재산세는 매년 6월 1일 현재 소유자가 1년치를 전부 냅니다. 집을 사고팔 때 잔금일·등기일에 따라 누가 재산세를 부담하는지, 하루 차이로 수십만 원이 갈리는 기준을 사례로 정리했습니다.",
-    category: "info",
+      "임신 준비·빈혈이 걱정된다면? 엽산 많은 음식(콩류·녹색 잎채소·아스파라거스)과 함량, 조리 손실 줄이는 법, 하루 섭취 기준과 보충제 주의점(B12)까지 정리했습니다.",
+    category: "food",
     date: "2026-11-26",
-    url: "/posts/property-tax-assessment-date-june-1.html",
-    image: "/img/property-tax-assessment-date-june-1-1.jpg",
+    url: "/posts/folate-foods.html",
+    image: "/img/folate-foods-1.jpg",
   },
   {
-    id: "property-tax-assessment-criteria",
-    title: "재산세 책정 기준 완전정리 — 공시가격·공정시장가액비율·세율",
+    id: "eyelid-twitch",
+    title: "눈 밑 떨림 원인과 완화법 (피로·카페인·마그네슘)",
     summary:
-      "재산세가 어떤 기준으로 책정되는지 공시가격, 공정시장가액비율(일반 60%·1주택 43~45%), 누진세율, 과세표준상한제까지 2026년 기준으로 한 번에 정리했습니다.",
+      "눈 밑이 파르르 떨린다면? 눈 밑 떨림 원인을 피로·스트레스·카페인·눈 피로로 나눠 정리했습니다. 마그네슘 부족 여부, 집에서 하는 관리와 병원 가야 할 신호까지.",
     category: "info",
     date: "2026-11-26",
-    url: "/posts/property-tax-assessment-criteria.html",
-    image: "/img/property-tax-assessment-criteria-1.jpg",
+    url: "/posts/eyelid-twitch.html",
+    image: "/img/eyelid-twitch-1.jpg",
   },
   {
-    id: "property-tax-basics-who-when-how-much",
-    title: "재산세란? 누가·언제·얼마 내는지 처음부터 쉽게",
+    id: "vitamin-c-foods",
+    title: "비타민C 많은 음식 총정리 (파프리카·브로콜리·키위)",
     summary:
-      "재산세가 무엇인지, 누가(6월 1일 소유자) 언제(7·9월) 얼마나 내는지 처음 보는 사람도 이해하도록 정리했습니다. 공시가격·공정시장가액비율·세율 구조와 바로 계산하는 법까지.",
+      "레몬보다 많은 비타민C 음식? 파프리카·브로콜리·딸기·키위 등 비타민C 많은 음식과 함량, 손실 줄이는 조리법, 하루 섭취 기준과 과다·보충제 주의점까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-26",
+    url: "/posts/vitamin-c-foods.html",
+    image: "/img/vitamin-c-foods-1.jpg",
+  },
+  {
+    id: "dry-mouth-causes",
+    title: "입 마름 원인과 완화법 (구강건조증·약물·당뇨)",
+    summary:
+      "물을 마셔도 입이 마른다면? 입 마름(구강건조증) 원인을 약물·당뇨·생활습관·침샘 질환으로 나눠 정리했습니다. 침 분비 자극·수분 관리와 병원 가야 할 신호까지.",
     category: "info",
     date: "2026-11-26",
-    url: "/posts/property-tax-basics-who-when-how-much.html",
-    image: "/img/property-tax-basics-who-when-how-much-1.jpg",
+    url: "/posts/dry-mouth-causes.html",
+    image: "/img/dry-mouth-causes-1.jpg",
+  },
+  {
+    id: "zinc-foods",
+    title: "아연 많은 음식 총정리 (굴·소고기·견과·콩)",
+    summary:
+      "면역·상처 회복에 필요한 아연, 어떤 음식에 많을까요? 굴·소고기·갑각류·씨앗·콩 등 아연 많은 음식과 함량, 하루 섭취 기준, 보충제 주의점(구리·철분)까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-25",
+    url: "/posts/zinc-foods.html",
+    image: "/img/zinc-foods-1.jpg",
+  },
+  {
+    id: "leg-cramps-night",
+    title: "다리에 쥐 나는 이유와 예방법 (야간 종아리 경련)",
+    summary:
+      "자다가 종아리에 쥐가 난다면? 다리에 쥐 나는 이유(탈수·전해질·순환·피로)와 쥐 났을 때 푸는 법, 스트레칭·수분 예방법, 병원 가야 할 신호까지 정리했습니다.",
+    category: "info",
+    date: "2026-11-25",
+    url: "/posts/leg-cramps-night.html",
+    image: "/img/leg-cramps-night-1.jpg",
+  },
+  {
+    id: "potassium-foods",
+    title: "칼륨 많은 음식 총정리 (감자·시금치·바나나)",
+    summary:
+      "짜게 먹고 붓거나 혈압이 걱정된다면? 칼륨 많은 음식(감자·시금치·바나나·콩)과 함량, 하루 섭취 기준, 신장질환 주의점과 조리법까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-25",
+    url: "/posts/potassium-foods.html",
+    image: "/img/potassium-foods-1.jpg",
+  },
+  {
+    id: "tinnitus-causes",
+    title: "이명 원인과 완화법 (소음·스트레스·돌발성 난청)",
+    summary:
+      "귀에서 삐 소리가 난다면? 이명 원인을 소음·노화, 스트레스, 질환, 박동성으로 나눠 정리했습니다. 돌발성 난청 신호, 집에서 하는 소리 관리와 병원 가야 할 경우까지.",
+    category: "info",
+    date: "2026-11-25",
+    url: "/posts/tinnitus-causes.html",
+    image: "/img/tinnitus-causes-1.jpg",
+  },
+  {
+    id: "uric-acid-foods",
+    title: "요산 낮추는 음식과 피해야 할 음식 (통풍 식단)",
+    summary:
+      "통풍·고요산이 걱정된다면? 요산 낮추는 음식(물·저지방 유제품·콩·체리)과 피해야 할 음식(술·내장·과당), 커피 효과, 생활습관까지 근거 위주로 정리했습니다.",
+    category: "food",
+    date: "2026-11-25",
+    url: "/posts/uric-acid-foods.html",
+    image: "/img/uric-acid-foods-1.jpg",
+  },
+  {
+    id: "hand-foot-numbness",
+    title: "손발 저림 원인과 관리법 (손목터널·당뇨·디스크)",
+    summary:
+      "손발 저림, 혈액순환 탓만은 아닙니다. 손목터널증후군·목디스크·당뇨병성 신경병증 등 원인과 저리는 위치로 구분하는 법, 집에서 하는 관리와 병원 가야 할 신호까지 정리했습니다.",
+    category: "info",
+    date: "2026-11-25",
+    url: "/posts/hand-foot-numbness.html",
+    image: "/img/hand-foot-numbness-1.jpg",
+  },
+  {
+    id: "gut-health-foods",
+    title: "장 건강에 좋은 음식 총정리 (발효식품·식이섬유)",
+    summary:
+      "속이 더부룩하다면? 장 건강에 좋은 음식을 정리했습니다. 김치·요구르트 등 발효식품, 마늘·양파 프리바이오틱스, 통곡물·콩 식이섬유와 피해야 할 음식, 생활습관까지.",
+    category: "food",
+    date: "2026-11-25",
+    url: "/posts/gut-health-foods.html",
+    image: "/img/gut-health-foods-1.jpg",
+  },
+  {
+    id: "migraine-relief",
+    title: "편두통 완화 방법 총정리 (휴식·냉찜질·생활습관)",
+    summary:
+      "한쪽 머리가 지끈거리는 편두통, 집에서 할 수 있는 완화 방법을 정리했습니다. 어둡고 조용한 휴식·냉찜질·수분·카페인 조절과 생활습관, 병원 가야 할 위험 신호까지.",
+    category: "info",
+    date: "2026-11-25",
+    url: "/posts/migraine-relief.html",
+    image: "/img/migraine-relief-1.jpg",
+  },
+  {
+    id: "menopause-foods",
+    title: "갱년기에 좋은 음식 총정리 (콩·두부·유제품)",
+    summary:
+      "얼굴 화끈거림·불면이 잦아지는 갱년기, 콩·두부·유제품·등푸른생선 등 갱년기에 좋은 음식과 줄여야 할 음식, 칼슘·비타민D 뼈 건강 팁까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-25",
+    url: "/posts/menopause-foods.html",
+    image: "/img/menopause-foods-1.jpg",
+  },
+  {
+    id: "winter-dry-skin-itch",
+    title: "겨울 피부 건조 가려움증 관리법 (보습·샤워·습도)",
+    summary:
+      "긁을수록 심해지는 겨울 피부 건조 가려움증, 원인과 관리법을 정리했습니다. 샤워 직후 3분 보습, 미지근한 물, 실내 습도 40~60%, 주의사항과 병원 가야 할 신호까지.",
+    category: "info",
+    date: "2026-11-25",
+    url: "/posts/winter-dry-skin-itch.html",
+    image: "/img/winter-dry-skin-itch-1.jpg",
+  },
+  {
+    id: "nasal-congestion-relief",
+    title: "코막힘 뚫는 법 7가지 (식염수·증기·자세)",
+    summary:
+      "밤에 코가 막혀 괴롭다면? 코막힘 원인과 집에서 할 수 있는 코막힘 뚫는 법(생리식염수 세척·증기·온찜질·자세·습도), 약 주의점과 병원 가야 할 신호까지 정리했습니다.",
+    category: "info",
+    date: "2026-11-25",
+    url: "/posts/nasal-congestion-relief.html",
+    image: "/img/nasal-congestion-relief-1.jpg",
+  },
+  {
+    id: "hangover-relief-foods",
+    title: "숙취 해소에 좋은 음식과 피해야 할 것 (북엇국·물)",
+    summary:
+      "연말 회식 다음 날, 숙취 해소에 좋은 음식을 근거 위주로 정리했습니다. 물·북엇국·콩나물·맑은 국물과 피해야 할 해장술·커피·찬 음식, 가장 확실한 방법까지.",
+    category: "food",
+    date: "2026-11-24",
+    url: "/posts/hangover-relief-foods.html",
+    image: "/img/hangover-relief-foods-1.jpg",
+  },
+  {
+    id: "cholesterol-lowering-foods",
+    title: "콜레스테롤 낮추는 음식 총정리 (귀리·콩·견과)",
+    summary:
+      "LDL 콜레스테롤이 걱정된다면? 귀리·콩·등푸른생선·견과 등 콜레스테롤 낮추는 음식과 줄여야 할 음식(포화·트랜스지방), 생활습관까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-24",
+    url: "/posts/cholesterol-lowering-foods.html",
+    image: "/img/cholesterol-lowering-foods-1.jpg",
+  },
+  {
+    id: "magnesium-foods-guide",
+    title: "마그네슘 많은 음식 총정리 (호박씨·시금치·콩)",
+    summary:
+      "다리에 쥐가 자주 난다면? 마그네슘 많은 음식과 식품별 함량, 하루 권장 섭취량, 음식으로 챙기는 팁까지 정리했습니다. 호박씨·잎채소·콩·통곡물 중심으로.",
+    category: "food",
+    date: "2026-11-24",
+    url: "/posts/magnesium-foods-guide.html",
+    image: "/img/magnesium-foods-guide-1.jpg",
   },
   {
     id: "winter-joint-pain-care",
