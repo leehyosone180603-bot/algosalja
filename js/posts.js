@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "iron-foods",
+    title: "철분 많은 음식 총정리 (소고기·시금치·콩)",
+    summary:
+      "쉽게 피로하고 어지럽다면? 철분 많은 음식(소고기·시금치·콩·굴)과 헴철·비헴철 차이, 비타민C로 흡수 높이는 법, 하루 섭취 기준과 보충제 주의점까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-26",
+    url: "/posts/iron-foods.html",
+    image: "/img/iron-foods-1.jpg",
+  },
+  {
     id: "vitamin-a-foods",
     title: "비타민A 많은 음식 총정리 (당근·고구마·시금치)",
     summary:
