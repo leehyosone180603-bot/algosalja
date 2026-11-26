@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "foot-odor",
+    title: "발 냄새 원인과 없애는 법 (땀·세균·신발 관리)",
+    summary:
+      "발 냄새, 땀 아닌 세균이 핵심입니다. 발 냄새 원인(땀+세균·밀폐 신발·무좀·다한증)과 씻고 말리기·신발 2~3켤레 번갈아 신기 등 없애는 법, 피할 방법까지 정리했습니다.",
+    category: "info",
+    date: "2026-11-26",
+    url: "/posts/foot-odor.html",
+    image: "/img/foot-odor-1.jpg",
+  },
+  {
     id: "property-tax-assessment-date-june-1",
     title: "재산세 과세 기준일 6월 1일이 중요한 이유, 매매 시 누가 낼까",
     summary:
