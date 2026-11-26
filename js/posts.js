@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "vitamin-a-foods",
+    title: "비타민A 많은 음식 총정리 (당근·고구마·시금치)",
+    summary:
+      "눈·피부 건강에 필요한 비타민A, 어떤 음식에 많을까요? 당근·고구마·시금치 등 비타민A 많은 음식과 베타카로틴 흡수 높이는 조리법, 하루 기준과 과다·임신 주의점까지.",
+    category: "food",
+    date: "2026-11-26",
+    url: "/posts/vitamin-a-foods.html",
+    image: "/img/vitamin-a-foods-1.jpg",
+  },
+  {
     id: "chapped-lips",
     title: "입술 트는 이유와 관리법 (건조·습관·영양)",
     summary:
