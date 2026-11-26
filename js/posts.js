@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "folate-foods",
+    title: "엽산 많은 음식 총정리 (콩·시금치·아스파라거스)",
+    summary:
+      "임신 준비·빈혈이 걱정된다면? 엽산 많은 음식(콩류·녹색 잎채소·아스파라거스)과 함량, 조리 손실 줄이는 법, 하루 섭취 기준과 보충제 주의점(B12)까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-26",
+    url: "/posts/folate-foods.html",
+    image: "/img/folate-foods-1.jpg",
+  },
+  {
     id: "eyelid-twitch",
     title: "눈 밑 떨림 원인과 완화법 (피로·카페인·마그네슘)",
     summary:
