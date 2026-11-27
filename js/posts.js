@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "dark-circles-causes",
+    title: "다크서클 원인과 없애는 법 (혈관형·색소형·그림자형)",
+    summary:
+      "잘 자도 생기는 다크서클, 원인이 다릅니다. 혈관형·색소형·그림자형과 유전·비염 원인을 유형별로 정리하고 수면·냉찜질·자외선 차단 등 관리법과 시술 기준까지 알려드립니다.",
+    category: "info",
+    date: "2026-11-27",
+    url: "/posts/dark-circles-causes.html",
+    image: "/img/dark-circles-causes-1.jpg",
+  },
+  {
     id: "canker-sore-relief",
     title: "구내염 빨리 낫는 법 (원인·소금물·연고·병원)",
     summary:
