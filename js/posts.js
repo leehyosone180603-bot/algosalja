@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "omega3-foods",
+    title: "오메가3 많은 음식 총정리 (고등어·들기름·호두)",
+    summary:
+      "중성지방이 걱정된다면? 오메가3 많은 음식(고등어·연어·들기름·호두)과 EPA·DHA·ALA 차이, 하루 섭취 기준, 보충제 출혈·약물 주의점까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-27",
+    url: "/posts/omega3-foods.html",
+    image: "/img/omega3-foods-1.jpg",
+  },
+  {
     id: "calcium-foods",
     title: "칼슘 많은 음식 총정리 (멸치·우유·두부)",
     summary:
