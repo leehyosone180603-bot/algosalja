@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "skin-health-foods",
+    title: "피부에 좋은 음식 총정리 (항산화·오메가3·수분)",
+    summary:
+      "화장품만으로 부족하다면? 피부에 좋은 음식(비타민C·항산화 채소과일·오메가3·수분)과 오히려 나쁜 음식(당·가공식품), 콜라겐 음식의 진실과 생활습관까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-27",
+    url: "/posts/skin-health-foods.html",
+    image: "/img/skin-health-foods-1.jpg",
+  },
+  {
     id: "nail-ridges",
     title: "손톱 세로줄 원인과 관리법 (노화·건조·보습)",
     summary:
