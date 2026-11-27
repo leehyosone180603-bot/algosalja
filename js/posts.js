@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "nosebleed-causes",
+    title: "코피 자주 나는 이유와 멈추는 법 (건조·비염)",
+    summary:
+      "환절기에 코피가 잦다면? 코피 자주 나는 이유(건조·코 자극·비염·약물)와 고개 숙여 코 끝 압박하는 올바른 지혈법, 재발 예방과 병원 가야 할 신호까지 정리했습니다.",
+    category: "info",
+    date: "2026-11-27",
+    url: "/posts/nosebleed-causes.html",
+    image: "/img/nosebleed-causes-1.jpg",
+  },
+  {
     id: "dark-circles-causes",
     title: "다크서클 원인과 없애는 법 (혈관형·색소형·그림자형)",
     summary:
