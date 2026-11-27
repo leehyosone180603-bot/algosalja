@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "shoulder-stiffness",
+    title: "어깨 결림 원인과 스트레칭 (자세·거북목·근막통증)",
+    summary:
+      "어깨가 돌처럼 뭉친다면? 어깨 결림 원인(자세·거북목·스트레스·근막통증)과 스트레칭·온찜질 완화법, 오십견과의 차이, 병원 가야 할 신호까지 정리했습니다.",
+    category: "info",
+    date: "2026-11-27",
+    url: "/posts/shoulder-stiffness.html",
+    image: "/img/shoulder-stiffness-1.jpg",
+  },
+  {
     id: "skin-health-foods",
     title: "피부에 좋은 음식 총정리 (항산화·오메가3·수분)",
     summary:
