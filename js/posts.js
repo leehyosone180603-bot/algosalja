@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "nail-ridges",
+    title: "손톱 세로줄 원인과 관리법 (노화·건조·보습)",
+    summary:
+      "손톱에 세로줄이 생겼다면? 대부분 노화·건조가 원인입니다. 세로줄 원인과 가로줄(보우라인) 차이, 보습 관리법과 검은 세로줄·숟가락손톱 등 병원 가야 할 신호까지 정리했습니다.",
+    category: "info",
+    date: "2026-11-27",
+    url: "/posts/nail-ridges.html",
+    image: "/img/nail-ridges-1.jpg",
+  },
+  {
     id: "vitamin-b12-foods",
     title: "비타민B12 많은 음식 총정리 (조개·간·달걀)",
     summary:
