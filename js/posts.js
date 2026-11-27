@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "vitamin-b12-foods",
+    title: "비타민B12 많은 음식 총정리 (조개·간·달걀)",
+    summary:
+      "빈혈·손발저림이 걱정된다면? 비타민B12 많은 음식(조개·간·생선·달걀·유제품)과 채식 시 공급원, 하루 섭취 기준, 노인·약물로 흡수가 떨어지는 경우까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-27",
+    url: "/posts/vitamin-b12-foods.html",
+    image: "/img/vitamin-b12-foods-1.jpg",
+  },
+  {
     id: "nosebleed-causes",
     title: "코피 자주 나는 이유와 멈추는 법 (건조·비염)",
     summary:
