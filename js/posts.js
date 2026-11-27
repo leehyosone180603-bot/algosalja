@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "protein-foods",
+    title: "단백질 많은 음식 총정리 (닭가슴살·달걀·콩)",
+    summary:
+      "근육·근감소증이 걱정된다면? 단백질 많은 음식(닭가슴살·달걀·생선·콩·두부)과 함량, 동물성·식물성 차이, 체중당 하루 섭취 기준과 주의점까지 정리했습니다.",
+    category: "food",
+    date: "2026-11-27",
+    url: "/posts/protein-foods.html",
+    image: "/img/protein-foods-1.jpg",
+  },
+  {
     id: "omega3-foods",
     title: "오메가3 많은 음식 총정리 (고등어·들기름·호두)",
     summary:
