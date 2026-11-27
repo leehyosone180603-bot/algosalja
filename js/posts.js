@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "canker-sore-relief",
+    title: "구내염 빨리 낫는 법 (원인·소금물·연고·병원)",
+    summary:
+      "입안이 헐어 따갑다면? 구내염 원인(스트레스·피로·영양결핍)과 빨리 낫는 법(자극 줄이기·소금물·연고·휴식), 피할 민간요법과 2주 넘으면 병원 가는 기준까지 정리했습니다.",
+    category: "info",
+    date: "2026-11-27",
+    url: "/posts/canker-sore-relief.html",
+    image: "/img/canker-sore-relief-1.jpg",
+  },
+  {
     id: "protein-foods",
     title: "단백질 많은 음식 총정리 (닭가슴살·달걀·콩)",
     summary:
