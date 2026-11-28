@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "cough-phlegm-foods",
+    title: "기침 가래에 좋은 음식 7가지 (도라지·배·꿀)",
+    summary:
+      "환절기 기침·가래 완화에 도움되는 음식(도라지·배·꿀·생강·따뜻한 차)과 배숙 먹는 법, 수분·습도 관리 생활습관, 병원에 가야 하는 신호를 정리했습니다.",
+    category: "food",
+    date: "2026-11-28",
+    url: "/posts/cough-phlegm-foods.html",
+    image: "/img/cough-phlegm-foods-1.jpg",
+  },
+  {
     id: "bloating-gas-causes",
     title: "복부 팽만 원인과 가스 빼는 법 (과민성대장·공기삼킴)",
     summary:
