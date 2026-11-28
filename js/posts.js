@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "hand-tremor-causes",
+    title: "손 떨림 원인과 구별법 (본태성 진전·파킨슨·갑상선)",
+    summary:
+      "손 떨림의 흔한 원인(생리적 진전·본태성 진전·파킨슨병·갑상선 항진·약물)과 본태성 진전·파킨슨 구별법, 카페인·수면 등 생활 관리, 신경과에 가야 하는 신호를 정리했습니다.",
+    category: "info",
+    date: "2026-11-28",
+    url: "/posts/hand-tremor-causes.html",
+    image: "/img/hand-tremor-causes-1.jpg",
+  },
+  {
     id: "cough-phlegm-foods",
     title: "기침 가래에 좋은 음식 7가지 (도라지·배·꿀)",
     summary:
