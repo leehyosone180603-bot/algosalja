@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "hiccup-stop-remedies",
+    title: "딸꾹질 멈추는 법과 원인 (숨참기·찬물)",
+    summary:
+      "딸꾹질의 원인(횡격막 경련·과식·탄산·스트레스)과 바로 멈추는 법(숨참기·찬물·종이봉투), 자주 날 때 관리, 48시간 이상 지속 시 병원에 가야 하는 신호를 정리했습니다.",
+    category: "info",
+    date: "2026-11-28",
+    url: "/posts/hiccup-stop-remedies.html",
+    image: "/img/hiccup-stop-remedies-1.jpg",
+  },
+  {
     id: "hand-tremor-causes",
     title: "손 떨림 원인과 구별법 (본태성 진전·파킨슨·갑상선)",
     summary:
