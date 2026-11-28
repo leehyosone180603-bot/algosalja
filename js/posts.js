@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "eye-redness-causes",
+    title: "눈 충혈 원인과 완화법 (결막염·안구건조·피로)",
+    summary:
+      "눈 충혈의 흔한 원인(결막염·안구건조·눈 피로·렌즈·알레르기·결막하출혈)과 냉찜질·인공눈물 등 집에서 할 수 있는 관리, 병원에 가야 하는 신호를 정리했습니다.",
+    category: "info",
+    date: "2026-11-28",
+    url: "/posts/eye-redness-causes.html",
+    image: "/img/eye-redness-causes-1.jpg",
+  },
+  {
     id: "gum-bleeding",
     title: "잇몸 출혈 원인과 관리법 (치태·치석·양치)",
     summary:
