@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "bloating-gas-causes",
+    title: "복부 팽만 원인과 가스 빼는 법 (과민성대장·공기삼킴)",
+    summary:
+      "배에 가스가 차는 복부 팽만의 원인(공기삼킴·발효 음식·유당불내증·과민성대장증후군·변비)과 천천히 먹기·식후 걷기 등 가스 빼는 법, 병원에 가야 하는 경고 신호를 정리했습니다.",
+    category: "info",
+    date: "2026-11-28",
+    url: "/posts/bloating-gas-causes.html",
+    image: "/img/bloating-gas-causes-1.jpg",
+  },
+  {
     id: "eye-redness-causes",
     title: "눈 충혈 원인과 완화법 (결막염·안구건조·피로)",
     summary:
