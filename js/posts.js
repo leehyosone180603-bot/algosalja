@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "food-coma-drowsiness",
+    title: "식곤증 원인과 줄이는 법 (혈당·과식·수면)",
+    summary:
+      "점심만 먹으면 졸리다면? 식곤증 원인(정제 탄수화물·혈당·과식·수면 부족)과 식사 순서·식후 걷기·낮잠으로 줄이는 법, 당뇨·갑상선 등 주의 신호까지 정리했습니다.",
+    category: "info",
+    date: "2026-11-28",
+    url: "/posts/food-coma-drowsiness.html",
+    image: "/img/food-coma-drowsiness-1.jpg",
+  },
+  {
     id: "shoulder-stiffness",
     title: "어깨 결림 원인과 스트레칭 (자세·거북목·근막통증)",
     summary:
