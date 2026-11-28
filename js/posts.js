@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "cracked-heels-care",
+    title: "발뒤꿈치 갈라짐 원인과 관리법 (보습·각질)",
+    summary:
+      "겨울 발뒤꿈치 갈라짐의 원인(건조·반복압력·각질·피부질환)과 씻은 뒤 보습·밤 집중 관리·보습 성분, 당뇨·출혈 등 병원에 가야 하는 신호를 정리했습니다.",
+    category: "info",
+    date: "2026-11-28",
+    url: "/posts/cracked-heels-care.html",
+    image: "/img/cracked-heels-care-1.jpg",
+  },
+  {
     id: "hiccup-stop-remedies",
     title: "딸꾹질 멈추는 법과 원인 (숨참기·찬물)",
     summary:
