@@ -40,6 +40,16 @@ const NAV_ORDER = ["food", "info", "exercise", "diet", "disease", "life"];
  */
 const POSTS = [
   {
+    id: "gum-bleeding",
+    title: "잇몸 출혈 원인과 관리법 (치태·치석·양치)",
+    summary:
+      "양치할 때 피가 난다면? 잇몸 출혈 원인(치태·치석·호르몬·영양)과 올바른 양치·치실법, 스케일링 등 치과 관리, 치과 가야 할 신호까지 정리했습니다.",
+    category: "info",
+    date: "2026-11-28",
+    url: "/posts/gum-bleeding.html",
+    image: "/img/gum-bleeding-1.jpg",
+  },
+  {
     id: "food-coma-drowsiness",
     title: "식곤증 원인과 줄이는 법 (혈당·과식·수면)",
     summary:
